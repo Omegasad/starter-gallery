@@ -1,11 +1,10 @@
-#Change Log
+﻿#Change Log
 
 Team membership:  Davin Deol (Captain) & Tony So (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 
-## *Version 1.0*
-
-Release Date: Jan 27, 2018
-
-Jan. 27 - 12:26 PM
-• Updated changelog.md to be better formatter and more simple.
+---Release Date: Jan 26, 2018---
+• Followed Lab 3 tutorial 3 successfully (Tony So)
+• Followed Lab 3 tutorial 2 successfully (Davin Deol)
+• Followed Lab 3 tutorial 1 successfully (Tony So)
+• Added Changelog file (Davin Deol)
