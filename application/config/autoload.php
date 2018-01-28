@@ -132,4 +132,11 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array();
+$autoload['model'] = array('images');
+
+/*
+| -------------------------------------------------------------------
+|  Auto-load Database
+| -------------------------------------------------------------------
+*/
+$autoload['libraries'] = array('database', 'parser');
